@@ -109,7 +109,11 @@ Data preprocessing was performed using Python before importing into Power BI.
   * From country → customer-level insights
 
 ---
+## 🖼️ Dashboard Preview
 
+![Dashboard Preview](image/dashboard.png)
+
+---
 ## 💡 Key Insights
 
 * High churn rates are concentrated in specific geographic regions
