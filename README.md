@@ -157,13 +157,13 @@ bank-churn-analysis/
 ├── notebooks/
 │   └── prepaired_data.ipynb
 │
-├── scripts/
-│   └── script phân tích.docx
+├── report/
+│   └── Report.pdf
 │
-├── powerbi/
+├── powerBI/
 │   └── dashboard.pbix
 │
-├── images/
+├── image/
 │   └── dashboard.png
 └── README.md
 ```
